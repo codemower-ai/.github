@@ -33,11 +33,12 @@ code, raw diffs, raw transcripts, raw auth output, or secrets by default.
 
 ## Current Status
 
-Code Mower is in early alpha. It is ready for friendly pilots where users can
-install from GitHub, run `code-mower init --easy`, run `code-mower doctor
---v05`, generate a first local value report, and optionally connect a
-CodeMower.com team token.
+Code Mower is in public beta for friendly pilots. The recommended path is to
+install the PyPI beta, run `code-mower init --easy`, run
+`code-mower doctor --preflight`, generate a first local value report, and
+optionally connect a CodeMower.com team token.
 
-Start with the 10-minute guide:
+Start with the 10-minute guide or preview the hosted dashboard first:
 
-[Try Code Mower In 10 Minutes](https://github.com/codemower-ai/code-mower/blob/main/docs/try-in-10-minutes.md)
+- [Try Code Mower In 10 Minutes](https://github.com/codemower-ai/code-mower/blob/main/docs/try-in-10-minutes.md)
+- [CodeMower.com Demo Dashboard](https://codemower.com/demo)
